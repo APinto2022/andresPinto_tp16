@@ -1,0 +1,14 @@
+"bicicletas"=[
+    {
+
+        "marca":undefined,
+        "modelo":undefined,
+        "rodado":undefined,
+        "anioDeFabricacion"
+        "color"
+        "pesoEnKilos"
+        "tipo"
+        "precio"
+        "vendida":false
+    }
+]
