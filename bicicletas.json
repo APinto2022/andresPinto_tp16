@@ -8,7 +8,7 @@
         "color"
         "pesoEnKilos"
         "tipo"
-        "precio"
+        "precio":0
         "vendida":false
     }
 ]
